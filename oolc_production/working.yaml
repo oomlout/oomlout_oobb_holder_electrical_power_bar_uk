@@ -2,5 +2,5 @@ project_id: oomlout_oobb_holder_electrical_power_bar_uk
 project_name: Oomlout Oobb Holder Electrical Power Bar Uk
 project_repo: https://github.com/oomlout/oomlout_oobb_holder_electrical_power_bar_uk
 production_format:
-  oolc_1:
+  oolc_1_oobb_holder_electrical_power_bar_uk_6_outlet:
     file_location: source_files/oolc_1.cdr
