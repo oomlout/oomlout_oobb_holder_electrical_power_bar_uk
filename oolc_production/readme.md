@@ -12,3 +12,13 @@
 * thickness:   
 * material:   
  
+
+### oolc_2_oobb_holder_electrical_power_bar_uk_4_outlet
+* link: [/oolc_2_oobb_holder_electrical_power_bar_uk_4_outlet](oolc_2_oobb_holder_electrical_power_bar_uk_4_outlet)  
+![](oolc_2_oobb_holder_electrical_power_bar_uk_4_outlet/working_300.png)  
+![](oolc_2_oobb_holder_electrical_power_bar_uk_4_outlet/image_300.jpg)  
+* width:   
+* height:   
+* thickness:   
+* material:   
+ 
